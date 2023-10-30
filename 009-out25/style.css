@@ -1,0 +1,31 @@
+solid bbody{
+    margin: 0px;
+    padding: 0px;
+    height: 180vh;
+    width: 240vh;
+    background: darkgray;
+}
+
+.pai{
+    width: 300px;
+    height: 300px;
+    margin: 150px;
+    background: #363636;
+    border: 1px solid black;
+}
+
+.filho{
+	width: 150px;
+	height: 150px;
+	background-color: blueviolet;
+	position: absolute;
+	top: 300px;
+	left: 300px;
+	border: 1px lack;
+}
+
+.texto {
+    width: 300px;
+    margin: 150px;
+    color: blueviolet;
+}
